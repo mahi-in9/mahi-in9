@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey,+I'm+Mahi!;MERN+Stack+Developer+💻;Frontend+Architect+⚛️;Building+Scalable+Web+Apps+🚀;Welcome+to+my+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey,+I'm+Mahendra+Kumar+Sahu!;MERN+Stack+Developer+💻;Frontend+Architect+⚛️;Building+Scalable+Web+Apps+🚀;Welcome+to+my+Profile!" />
 
 
 
