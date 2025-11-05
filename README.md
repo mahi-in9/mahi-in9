@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ankit1141192&label=Profile%20views&color=0e75b6&style=flat" alt="ankit1141192" />
+  <img src="https://komarev.com/ghpvc/?username=mahi-in9&label=Profile%20views&color=0e75b6&style=flat" alt="mahi-in9" />
 </p>
 
 ---
@@ -79,9 +79,10 @@
 ### 🐍 Watch my contribution graph get eaten by the snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahi-in9/mahi-in9/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahi-in9/mahi-in9/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/mahi-in9/mahi-in9/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
+
+---``
