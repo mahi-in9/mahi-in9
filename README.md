@@ -70,7 +70,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-in9&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mahi-in9&show_icons=true&theme=tokyonight" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahi-in9&show_icons=true&theme=tokyonight&count_private=true" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-in9&theme=tokyonight" />
 </p>
 
